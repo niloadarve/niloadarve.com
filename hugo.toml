@@ -1,0 +1,4 @@
+baseURL = 'https://niloadarve.com/'
+theme = 'hugo-theme-nostyleplease'
+languageCode = 'en-us'
+title = 'nilo adarve-counts'

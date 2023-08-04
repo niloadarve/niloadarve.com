@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Films on nilo adarve-counts</title>
+    <link>https://niloadarve.com/film/</link>
+    <description>Recent content in Films on nilo adarve-counts</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 04 Aug 2023 13:48:31 -0400</lastBuildDate><atom:link href="https://niloadarve.com/film/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>for maria</title>
+      <link>https://niloadarve.com/film/for-maria/</link>
+      <pubDate>Fri, 04 Aug 2023 13:48:31 -0400</pubDate>
+      
+      <guid>https://niloadarve.com/film/for-maria/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>trans living archive</title>
+      <link>https://niloadarve.com/film/trans-living-archive/</link>
+      <pubDate>Fri, 04 Aug 2023 13:48:31 -0300</pubDate>
+      
+      <guid>https://niloadarve.com/film/trans-living-archive/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

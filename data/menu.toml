@@ -1,0 +1,43 @@
+
+[[entries]]
+
+
+title = "film"
+  [entries.post_list]
+  section = "film"
+  limit = 3
+    show_more = true
+  show_more_url = "film"
+  show_more_text = ">>>"
+
+[[entries]]
+title = "writing"
+  [entries.post_list]
+  section = "writing"
+  limit = 3
+  show_more = true
+  show_more_url = "categories/writing"
+  show_more_text = ">>>"
+
+[[entries]]
+title = "exhibition"
+  [entries.post_list]
+  section = "exhibition"
+  limit = 3
+  show_more = true
+  show_more_url = "categories/volleyball"
+  show_more_text = ">>>"
+
+
+#title = "hello, it's me"
+#    [[entries.entries]]
+#   title = "about"
+#    url = "about"
+#    [[entries.entries]]
+#    title = "me#herbhuang.com"
+#    url = "mailto:me#herbhuang.com"
+#    [[entries.entries]]
+#    title = "atom"
+#    url = "atom.xml"
+#    [[entries.entries]]
+#   title = "2023 | CC BY-NC-SA 4.0"
