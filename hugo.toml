@@ -1,4 +1,4 @@
-baseURL = 'https://niloadarve.com/'
+baseURL = 'https://lucky-figolla-2f06de.netlify.app'
 theme = 'hugo-theme-nostyleplease'
 languageCode = 'en-us'
 title = 'nilo adarve-counts'
